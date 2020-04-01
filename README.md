@@ -6,11 +6,11 @@
 
 Images of Arches and Scenery
 
-![Bridge](bridge.jpg)
+![Bridge](basemap/bridge.JPG)
 *Bridge on a trail*, photograph by Madelynn Schade
 
 
-![Grays Arch](graysarch.jpg)
+![Grays Arch](basemap/graysarch.JPG)
 *Grays Arch*, photograph by Madelynn Schade
 
 
