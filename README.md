@@ -6,7 +6,7 @@
 
 Images of Arches and Scenery
 
-![Bridge](basemap/bridge.JPG)
+![Bridge](basemap/bridge.pdf)
 *Bridge on a trail*, photograph by Madelynn Schade
 
 
