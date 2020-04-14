@@ -1,7 +1,12 @@
-# RRG
 # Popular arches of Red River Gorge, Kentucky
 
+## Base map of area
+
 [Link to GeoPDF](basemap/RRGLayout.pdf)
+
+![Preview of map](basemap/RRGLayout.jpg)     
+*Preview of map*
+ 
 
 ## Visit web page
 
