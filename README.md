@@ -4,7 +4,7 @@
 [Link to GeoPDF](basemap/RRGLayout.pdf)
 
 
-Images of Arches and Scenery
+## Images of Arches and Scenery
 
 ![Bridge](basemap/bridge.JPG)
 *Bridge on a trail*, photograph by Madelynn Schade
